@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "529206953978",
+    "project_id": "kinetic-63929",
+    "storage_bucket": "kinetic-63929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529206953978:android:8622a7f1c0471cbda20643",
+        "android_client_info": {
+          "package_name": "com.example.kinetik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529206953978-8chv8di0v10sopfptu9b34q9l779m99a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0D02w7lSjb48Z7GnaQNrdzwIAfFIOoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529206953978-8chv8di0v10sopfptu9b34q9l779m99a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529206953978-7j5qkom0pal16gk8mtsthlo4jt3jr7at.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kinetik"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

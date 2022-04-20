@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>529206953978-7j5qkom0pal16gk8mtsthlo4jt3jr7at.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.529206953978-7j5qkom0pal16gk8mtsthlo4jt3jr7at</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7JOQgLk-tPst-5FxP9IHraaOMtmo3cqM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>529206953978</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kinetik</string>
+	<key>PROJECT_ID</key>
+	<string>kinetic-63929</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kinetic-63929.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:529206953978:ios:9726f99a4390bf87a20643</string>
+</dict>
+</plist>
